@@ -1,0 +1,27 @@
+
+
+
+Expense Dashboard 
+
+
+finacial summary
+CRUD opteration of transactions
+use charts
+use data filters
+re calculations
+
+
+modern UI 
+modern animations
+
+
+vanilla JS / html / css
+
+
+
+
+design : monochrome, modern layout
+colors : modern colors
+fonts : modern impressive font usage
+
+responsive : TAB, DESKTOP , MOBILE
